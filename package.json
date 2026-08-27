@@ -1,7 +1,7 @@
 {
-  "name": "gmail-remote-mcp",
-  "version": "1.0.0",
-  "description": "Gmail MCP server with OAuth 2.1, for Claude.ai custom connectors and Claude Code",
+  "name": "gmail-second-account-mcp",
+  "version": "1.0.1",
+  "description": "MCP server for a second Gmail account, with OAuth 2.1, for Claude.ai custom connectors and Claude Code",
   "main": "auth-server.js",
   "scripts": {
     "start": "node auth-server.js",

@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "gmail-remote-mcp"
-version = "1.0.0"
+name = "gmail-second-account-mcp"
+version = "1.0.1"
 description = "MCP server for a single Gmail mailbox, with an OAuth 2.1 login for Claude.ai"
 readme = "README.md"
 license = "MIT"

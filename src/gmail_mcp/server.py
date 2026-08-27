@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 try:
-    __version__ = importlib.metadata.version("gmail-remote-mcp")
+    __version__ = importlib.metadata.version("gmail-second-account-mcp")
 except importlib.metadata.PackageNotFoundError:  # running from a source tree
     __version__ = "0.0.0"
 
