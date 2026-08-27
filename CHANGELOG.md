@@ -1,3 +1,8 @@
+### 1.0.1: 2026-08-27
+
+* Rename the package to gmail-second-account-mcp
+* Add the Gmail logo to the repository
+
 ### 1.0.0: 2026-08-27
 
 * Read, search and thread one Gmail mailbox
