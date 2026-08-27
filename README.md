@@ -5,7 +5,7 @@
 Gmail second account MCP server
 
 <img style="justify-content:center;text-align: center;width: 95px; height: auto;" width="793" height="411" alt="image" src="https://github.com/user-attachments/assets/abed1a04-d69b-4ab4-a490-d606064df72d" />
-<img style="justify-content:center;text-align: center;width: 250px; height: auto;" alt="image" src="assets/gmail-logo-white.png" />
+<img style="justify-content:center;text-align: center;width: 190px; height: auto;" alt="image" src="assets/gmail-logo-white.png" />
 
 </h1>
 
