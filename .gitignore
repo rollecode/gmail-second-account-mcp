@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+__pycache__/
+*.egg-info/
+uv.lock
+credentials/
+gmail-mcp.service
+gmail-mcp-auth.service
+gmail-mcp.conf
