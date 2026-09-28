@@ -22,8 +22,12 @@ _ICON_BASE = os.getenv("MCP_PUBLIC_URL", "").rstrip("/")
 _ICON_SIZES = (48, 96, 256)
 _ACCOUNT = os.getenv("GMAIL_ACCOUNT_LABEL", "Gmail")
 
+# The SDK's 30-minute default kills sessions of chats left idle, and their next call fails.
+SESSION_IDLE_TIMEOUT = 24 * 3600
+
 mcp = FastMCP(
     "gmail",
+    session_idle_timeout=SESSION_IDLE_TIMEOUT,
     icons=(
         [
             Icon(

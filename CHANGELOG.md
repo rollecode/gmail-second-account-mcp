@@ -1,3 +1,7 @@
+### 1.0.2: 2026-09-28
+
+* Keep idle sessions for 24 hours
+
 ### 1.0.1: 2026-08-27
 
 * Rename the package to gmail-second-account-mcp
