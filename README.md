@@ -20,6 +20,9 @@ Read and write **one** Gmail mailbox from Claude.ai and Claude Code. Claude.ai's
 
 <hr>
 
+> [!WARNING]
+> Using this server with a paid AI service costs money. Tool definitions and results are billed as input tokens, and an agent can call tools repeatedly on its own. You are responsible for every charge, so set spending limits with your provider. The author accepts no liability for any costs. See [DISCLAIMER.md](DISCLAIMER.md).
+
 ## One mailbox per instance
 
 Which account an instance serves comes from `GMAIL_CREDENTIALS_DIR`, and nothing else is reachable from that process. That separation is the point rather than a limitation: a draft cannot land in the wrong mailbox when the server only ever holds one set of credentials.
